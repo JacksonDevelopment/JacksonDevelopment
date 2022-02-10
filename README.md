@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacksonDevelopment
 - 👀 I’m interested in Video Game Dev 
-- 🌱 I’m currently learning C+ And Java
+- 🌱 I’m currently learning C And Java
 - 📫 How to reach me: jacksonjjstudios@gmail.com only for business concerns
 
 <!---
