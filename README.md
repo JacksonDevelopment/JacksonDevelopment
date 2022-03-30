@@ -1,8 +1,8 @@
 ### Hi There 👋
 Current Projects
-[BypassIB](https://replit.com/@Jackson120/Bypass-IB#index.js)
+[BypassIB](https://bypassib.tk)
 
-Go Check Out My Friends Github Page [Avad3](https://github.com/Avad3)
+Go Check Out My Friend who Helped Me With BypassIB: [Avad3](https://github.com/Avad3)
 
 [![JacksonDevelopment's Github Stats](https://github-readme-stats.vercel.app/api?username=JacksonDevelopment&show_icons=true&theme=github_dark&locale=en&border_radius=35)](https://github.com/anuraghazra/github-readme-stats)
  
